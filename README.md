@@ -1,6 +1,6 @@
 # PFS-Ecommerce-2023
 
-## Deploy GithuPages: https://ispc-desarrolladores-2-0.github.io/PFS-Ecommerce-2023/
+## Deploy GithuPages: https://github.com/recursosssbb/ispc-desarrolladores-2-0.github.io-PFS-Ecommerce-2023-/
 ## Deploy VERCEL: https://pfs-ecommerce-2023.vercel.app/   
 
 ## INTRODUCCIÓN
